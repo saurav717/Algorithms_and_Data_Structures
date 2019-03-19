@@ -1,0 +1,9 @@
+enter a number to reverse
+10123
+32101
+--------------------------------
+Process exited after 2.503 seconds with return value 0
+Press any key to continue . . .
+
+
+

@@ -1,0 +1,30 @@
+1-add
+2-subtract
+3-multiply
+4-divide
+5-modulo
+6-square
+7-square root
+8-log
+9-exit
+enter your option
+7
+enter number
+0
+this operation is not possible
+menu
+1-add
+2-subtract
+3-multiply
+4-divide
+5-modulo
+6-square
+7-square root
+8-log
+9-exit
+enter your option
+9
+
+--------------------------------
+Process exited after 459.6 seconds with return value 0
+Press any key to continue . . .

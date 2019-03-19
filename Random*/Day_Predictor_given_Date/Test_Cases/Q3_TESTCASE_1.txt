@@ -1,0 +1,11 @@
+enter the number
+8888
+the prime factors are
+ 2 11 101
+--------------------------------
+Process exited after 2.135 seconds with return value 0
+Press any key to continue . . .
+
+
+
+

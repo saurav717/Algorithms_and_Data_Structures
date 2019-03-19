@@ -1,0 +1,9 @@
+The Following are implemented in the linked list here
+
+
+1. Insert a node at the end of the list
+2. Insert a node at the beginning of the list
+3. Insert a node after a node that contains the first occurrence of a specific value (that specific value to be passed by the user).
+4. Delete a node that contains the last occurrence of a specific value (that specific value to be passed by the user)
+5. Delete all elements of the list.
+6. Print all elements in the list.

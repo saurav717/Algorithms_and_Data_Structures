@@ -1,0 +1,12 @@
+menu
+1:display year
+2:display month
+3:move right
+4:move left
+5:exit
+enter your choice
+5
+
+--------------------------------
+Process exited after 110.5 seconds with return value 0
+Press any key to continue . . .

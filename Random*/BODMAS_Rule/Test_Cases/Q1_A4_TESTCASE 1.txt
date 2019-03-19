@@ -1,0 +1,6 @@
+enter your input
+((444+33)*6)+7
+2869
+--------------------------------
+Process exited after 3.012 seconds with return value 0
+Press any key to continue . . .

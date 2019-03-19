@@ -1,0 +1,11 @@
+enter date
+8
+enter month
+2
+enter year
+2012
+wednesday
+--------------------------------
+Process exited after 121.9 seconds with return value 0
+Press any key to continue . . .
+

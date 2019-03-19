@@ -1,0 +1,11 @@
+enter date
+15
+enter month
+6
+enter year
+1930
+sunday
+--------------------------------
+Process exited after 3.587 seconds with return value 0
+Press any key to continue . . .
+

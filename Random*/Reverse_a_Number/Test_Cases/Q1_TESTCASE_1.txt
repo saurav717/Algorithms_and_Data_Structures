@@ -1,0 +1,6 @@
+enter a number to reverse
+100
+001
+--------------------------------
+Process exited after 2.766 seconds with return value 0
+Press any key to continue . . .

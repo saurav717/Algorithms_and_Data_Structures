@@ -1,0 +1,8 @@
+enter the number
+10
+the prime factors are
+ 2 5
+--------------------------------
+Process exited after 11.16 seconds with return value 0
+Press any key to continue . . .
+

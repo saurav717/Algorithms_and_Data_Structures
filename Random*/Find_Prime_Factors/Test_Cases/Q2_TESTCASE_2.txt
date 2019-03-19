@@ -1,0 +1,8 @@
+enter the number
+36
+the prime factors are
+ 2 3
+--------------------------------
+Process exited after 0.8725 seconds with return value 0
+Press any key to continue . . .
+

@@ -1,0 +1,8 @@
+enter your input
+8*((1+2)+(18/2*5)
+invalid expression
+
+--------------------------------
+Process exited after 1.372 seconds with return value 0
+Press any key to continue . . .
+

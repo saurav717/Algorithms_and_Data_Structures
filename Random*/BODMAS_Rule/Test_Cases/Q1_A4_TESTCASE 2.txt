@@ -1,0 +1,9 @@
+enter your input
+(2+100*2/10*5+3)*10
+1050
+--------------------------------
+Process exited after 1.67 seconds with return value 0
+Press any key to continue . . .
+
+
+

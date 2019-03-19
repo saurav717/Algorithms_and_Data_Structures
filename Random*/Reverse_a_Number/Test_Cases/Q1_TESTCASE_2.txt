@@ -1,0 +1,11 @@
+enter a number to reverse
+1589
+9851
+--------------------------------
+Process exited after 14.94 seconds with return value 0
+Press any key to continue . . .
+
+
+
+
+
